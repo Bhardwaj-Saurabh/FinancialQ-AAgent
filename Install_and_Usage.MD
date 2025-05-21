@@ -129,15 +129,15 @@ $env:PYTHONPATH="src"
 
 To run agent on command line:
 ```bash
-python run_application\main.py
+python run\main.py
 ```
 
 To evaluate agent:
 ```bash
-python run_application\evaluate_agent.py
+python run\evaluate_agent.py
 ```
 
 To start data ingestion:
 ```bash
-python run_application\ingest_data.py
+python run\ingest_data.py
 ```
