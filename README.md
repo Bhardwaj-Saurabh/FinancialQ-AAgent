@@ -4,7 +4,7 @@
 This is an Agentic Retrieval-Augmented Generation (RAG) pipeline designed to answer financial questions using semi-structured data sources.
 Questions are routed via LangGraph to an Agentic RAG Inference Pipeline that handles retrieval and response generation.
 
-![](images\arch.png)
+![](images/arch.png)
 
 **The pipeline utilizes:**
 
@@ -51,7 +51,7 @@ RAG Approach: Chosen for its balance between up-to-date factuality and the gener
 | mongo_hybrid_mq_eval      | 13        |
 
 **Observability with Opik:** Ensures production-grade monitoring and continuous evaluation, necessary for high-stakes domains like finance.
-![](images\observability.png)
+![](images/observability.png)
 
 ## 🧱 3. Code Design & Good Practices
 
@@ -119,7 +119,7 @@ A comprehensive README.md guides:
 | 🎯 Context Precision Metric  | 0.3600          |
 | ⚖️ Moderation Metric         | 0.0000          |
 
-![](images\evluation.png)
+![](images/evluation.png)
 
 
 ## 🚀 6. Future Improvements
