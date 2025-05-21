@@ -161,7 +161,7 @@ A comprehensive README.md guides:
 ## ✅ 9. Assumptions
 
 - Task is to design an end-to-end agentic system. 
-- Accuracy of the system is not the priority, but designing a agentic system is.
+- Accuracy of the system is not the priority, but designing an agentic system is.
 - Data provided is already preprocessed for ingestion. 
 
 
